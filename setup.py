@@ -5,13 +5,13 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="showfile",
-    version="0.1.0",
+    version="0.1.1",
     author="Wasi Master",
     author_email="arianmollik323@gmail.com",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    description="A tool to show files with their proper syntax highlighting in the console",
-    url="https://github.com/wasi-master/showfile",
+    description="A tool to view files with their proper syntax highlighting in the console",
+    url="https://wasi-master.github.io/showfile/",
     project_urls={
         "Github": "https://github.com/wasi-master/showfile",
         "Bug Tracker": "https://github.com/wasi-master/showfile/issues",
