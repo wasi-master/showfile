@@ -5,7 +5,7 @@
    <a href="https://github.com/wasi-master/showfile/network/members"><img src="https://img.shields.io/github/forks/wasi-master/showfile.svg?style=flat" alt="Forks"></a>
    <a href="https://github.com/wasi-master/showfile/stargazers"><img src="https://img.shields.io/github/stars/wasi-master/showfile.svg?style=flat" alt="Stargazers"></a>
    <a href="https://github.com/wasi-master/showfile/issues"><img src="https://img.shields.io/github/issues/wasi-master/showfile.svg?style=flat" alt="Issues"></a>
-   <a href="https://github.com/wasi-master/showfile/blob/master/LICENSE"><img src="https://img.shields.io/github/license/wasi-master/showfile.svg?style=flat" alt="MIT License"></a>
+   <a href="https://github.com/wasi-master/showfile/blob/main/LICENSE"><img src="https://img.shields.io/github/license/wasi-master/showfile.svg?style=flat" alt="MIT License"></a>
    <a href="https://saythanks.io/to/arianmollik323@gmail.com"><img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg" alt="Say Thanke"></a>
    <a href="https://pypistats.org/packages/showfile"><img src="https://img.shields.io/pypi/dm/showfile.svg?style=flat" alt="Downloads last Month"></a>
    <a href="https://pypistats.org/packages/showfile"><img src="https://img.shields.io/pypi/dw/showfile.svg?style=flat" alt="Downloads last Week"></a>
