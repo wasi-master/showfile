@@ -24,7 +24,7 @@ A tool to show files with their proper syntax highlighting in the console
 - 😏 Really Lightweight (3.55 KB)
 - 😍 Beautiful Syntax Highlighting using the [Monokai Pro](https://monokai.pro) theme
 
-[View Demo](demo.md)
+[View Demo](https://wasi-master.github.io/showfile/demo.html)
 
 ## Installation
 
@@ -41,3 +41,5 @@ To show the contents of a file simply use
 ```sh
 showfile file.py
 ```
+
+[![python.gif](https://raw.githubusercontent.com/wasi-master/showfile/main/demos/gifs/python.gif)](demos/files/demo.py)
